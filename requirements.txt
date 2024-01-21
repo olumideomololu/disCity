@@ -1,0 +1,9 @@
+
+ 'networkx',
+ 'numpy',
+ 'pandas',
+ 'seaborn',
+ 'matplotlib',
+ 'scipy',
+ 'sklearn',
+ 'skopt'
